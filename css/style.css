@@ -1,0 +1,166 @@
+
+
+@font-face{
+   font-family: lato;
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+   @font-face{
+      font-family: lato;
+      src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+      font-display: swap;
+      font-weight: 900;
+      font-style: normal
+   }
+
+
+   @font-face{
+      font-family: lato;
+      src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   }
+   
+   .title{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 56px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+      margin-top: 40px;
+      /* background: red; */
+      background-image: url("../img/6.jpeg");
+   
+   }
+   
+   
+   .image{
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+      background-image: -o-linear-gradient();
+      
+
+   }
+
+   .container1{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+      background-image: url("../img/5.jpeg");
+   }
+   .container2{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+      background-image: linear-gradient(
+         90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 18%, rgba(0,212,255,1) 100%);
+      
+   }
+   
+   
+   .container3{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+
+   }
+
+   .container4{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      max-width: 705px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+
+   }
+
+   .conteiner5{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 30px;
+   }
+
+   .conteiner6{
+      max-width: 730px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      line-height: 25.6px;
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 35px;
+   }
+   
+   .conteiner7{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      max-width: 805px;
+      margin: 0 auto;
+      margin-bottom: 40px;
+   }
+   .background_all{
+      height: 600px;
+      background-image: url("../img/9.jpeg");
+      
+   }
+
+   
+   .backgraund_all1{
+      height: 600px;
+      background: rgb(67, 23, 245) url("../img/5.jpeg") center no-repeat fixed;
+      background-size: contain;
+         
+   }
+   .backgraund_all2{
+      height: 600px;
+      background: rgb(143, 226, 17) url("../img/4.jpeg") center no-repeat;
+   }
+
+   .backgraund_all3{
+      height: 900px;
+      background: rgb(202, 26, 190) url("../img/6.jpeg") 0 0/contain no-repeat fixed;
+   }
+
+   .backgraund_all4{
+      height: 800px;
+      background: rgba(2,0,36,1) url('../img/2.jpeg') 0 0/cover no-repeat;
+   }
+
+   .backgraund_all5{
+      height: 800px;
+      background: url('../img/7.jpeg') no-repeat 700px 100px/200px 100px,url('../img/1.jpeg') no-repeat 200px 100px/200px 100px,url('../img/3.jpeg') no-repeat center/1000px fixed,yellowgreen;
+   }
+
+
+
+
+
+   
+   
+   
